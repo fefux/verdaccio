@@ -7386,6 +7386,12 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
 .inline-block {
   display: inline-block;
 }
+.on-search-size {
+  background-image: url('ajax.gif');
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+}
 @media (max-width: 992px) {
   .body .main-header .npm-logo {
     width: 100px;
